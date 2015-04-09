@@ -1,4 +1,4 @@
 {"name":"test","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[4.895903,51.220192],[4.8960382,51.2197505],[4.89596,51.2188547],[4.896238,51.2179768],[4.8969142,51.2169743],[4.8974869,51.2166922]]},"properties":{"_creation_instance":"0"}}
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[4.895903,51.220192],[4.8960382,51.2197505],[4.89596,51.2188547],[4.896238,51.2179768],[4.8969142,51.2169743],[4.8974869,51.2166922]]},"properties":{"_creation_instance":"0","status":"missing"}}
 ]}
